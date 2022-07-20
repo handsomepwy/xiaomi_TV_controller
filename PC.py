@@ -89,3 +89,4 @@ power_btn = tkinter.Button(root, text="电源键", command=power, image=power_pi
 power_btn.grid(row=6, column=1)
 # tkinter按钮, 布局可换
 root.mainloop()
+# 启动root
